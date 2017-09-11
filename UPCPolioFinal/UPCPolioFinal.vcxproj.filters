@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\Propiedades">
+      <UniqueIdentifier>{fa50f72e-af38-4101-831d-5feb63cc5559}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Cupones">
+      <UniqueIdentifier>{bddcc16b-f5e8-4205-a23e-3b0510aedae1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Banco.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Jugador.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Propiedad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Gestor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FormInicio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FormJuego.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FormCupon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FormMochila.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Banco.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Jugador.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Propiedad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Gestor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FormInicio.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FormJuego.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FormCupon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FormMochila.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FormInicio.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormJuego.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Av Arequipa.png">
+      <Filter>Resource Files\Propiedades</Filter>
+    </Image>
+    <Image Include="Av Bolivar.png">
+      <Filter>Resource Files\Propiedades</Filter>
+    </Image>
+    <Image Include="Av La Marina.png">
+      <Filter>Resource Files\Propiedades</Filter>
+    </Image>
+    <Image Include="Av Larco.png">
+      <Filter>Resource Files\Propiedades</Filter>
+    </Image>
+    <Image Include="Av Primavera.png">
+      <Filter>Resource Files\Propiedades</Filter>
+    </Image>
+    <Image Include="Av Venezuela.png">
+      <Filter>Resource Files\Propiedades</Filter>
+    </Image>
+    <Image Include="Bembos.png">
+      <Filter>Resource Files\Propiedades</Filter>
+    </Image>
+    <Image Include="Carcel.png">
+      <Filter>Resource Files\Propiedades</Filter>
+    </Image>
+    <Image Include="Centro Civico.png">
+      <Filter>Resource Files\Propiedades</Filter>
+    </Image>
+    <Image Include="Cupon.png">
+      <Filter>Resource Files\Propiedades</Filter>
+    </Image>
+    <Image Include="De visita.png">
+      <Filter>Resource Files\Propiedades</Filter>
+    </Image>
+    <Image Include="Descanso.png">
+      <Filter>Resource Files\Propiedades</Filter>
+    </Image>
+    <Image Include="GO.png">
+      <Filter>Resource Files\Propiedades</Filter>
+    </Image>
+    <Image Include="impuestos.png">
+      <Filter>Resource Files\Propiedades</Filter>
+    </Image>
+    <Image Include="Jr de la Union.png">
+      <Filter>Resource Files\Propiedades</Filter>
+    </Image>
+    <Image Include="Paseo de la Republica.png">
+      <Filter>Resource Files\Propiedades</Filter>
+    </Image>
+    <Image Include="Plaza San Martin.png">
+      <Filter>Resource Files\Propiedades</Filter>
+    </Image>
+    <Image Include="Plaza San Miguel.png">
+      <Filter>Resource Files\Propiedades</Filter>
+    </Image>
+    <Image Include="UNMSM.png">
+      <Filter>Resource Files\Propiedades</Filter>
+    </Image>
+    <Image Include="UPC.png">
+      <Filter>Resource Files\Propiedades</Filter>
+    </Image>
+    <Image Include="Vete a la carcel.png">
+      <Filter>Resource Files\Propiedades</Filter>
+    </Image>
+    <Image Include="Cupon1.jpg">
+      <Filter>Resource Files\Cupones</Filter>
+    </Image>
+    <Image Include="Cupon2.jpg">
+      <Filter>Resource Files\Cupones</Filter>
+    </Image>
+    <Image Include="Cupon3.png">
+      <Filter>Resource Files\Cupones</Filter>
+    </Image>
+    <Image Include="Cupon4.jpg">
+      <Filter>Resource Files\Cupones</Filter>
+    </Image>
+    <Image Include="Cupon5.jpg">
+      <Filter>Resource Files\Cupones</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

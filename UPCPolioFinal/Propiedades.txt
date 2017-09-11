@@ -1,0 +1,14 @@
+Av. Larco,13000
+Av. Arequipa,10000
+Paseo de la Republica,90000
+Jr. de la Union,15000
+Plaza San Martin,14000
+Centro Civico,5000
+Av. Bolivar,17000
+UNMSM,23000
+Av. Venezuela,25000
+Av. La Marina,17500
+Plaza San Miguel,31000
+UPC,27000
+Av. Primavera,25000
+Bembos Surco,39000
