@@ -12,4 +12,4 @@
 <img src = "Resources/SS2.PNG" />
 <img src = "Resources/SS3.PNG" />
 
-#### Made by <a href = "https://github.com/RodrigoAGM">@RodrigoAGM </a>
+#### Made by <a href = "https://github.com/RodrigoAGM">@RodrigoAGM </a> :peru:
